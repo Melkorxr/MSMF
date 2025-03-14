@@ -63,7 +63,7 @@ sudo docker run -it --rm -p 8000:8000 opensecurity/mobile-security-framework-mob
 Once the installation is complete, you can access MobSF by visiting:  
 🔗 **[http://localhost:8000](http://localhost:8000)**  
 
-### 🧑‍💻 Login Credentials
+### 🧑‍💻 Login Credentials Default
 | **Username** | **Password** |
 |:--------------|:-------------|
 | `mobsf`        | `mobsf`      |
