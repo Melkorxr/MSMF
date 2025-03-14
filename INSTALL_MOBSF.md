@@ -72,4 +72,4 @@ Once the installation is complete, you can access MobSF by visiting:
 
 🎯 *This script ensures a smooth and secure MobSF installation. Happy testing!*
 
-© 2025
+© Melkorxr 2025
